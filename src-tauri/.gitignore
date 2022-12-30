@@ -2,4 +2,6 @@
 # will have compiled files and executables
 /target/
 WixTools
+# for free and easy use of chatgpt or other ml tools without exposing sensitive information
+# files with related strings in their names are hidden from git by JARVIS developers
 *chatgpt*
